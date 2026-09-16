@@ -1,0 +1,7 @@
+.env
+*.db
+*.session
+__pycache__/
+*.__pycache__
+audio/
+.ruffcache
